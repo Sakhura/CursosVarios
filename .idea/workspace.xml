@@ -5,19 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f92d7b1-9087-40bf-9e81-ed50d6715570" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/Basico.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/PerimetroCuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SueldoOperario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SumaProducto4Numeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SumaProductoNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SumaPromedio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SuperficieCuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CostoCompra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalCompuesta1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalCompuesta2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalCompuesta3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalSimple1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalSimple2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
