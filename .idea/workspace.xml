@@ -5,26 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f92d7b1-9087-40bf-9e81-ed50d6715570" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CondicionesCompuestas8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/CostoCompra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalAnidada5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalCompuesta1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalCompuesta2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalCompuesta3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalSimple1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraCondicionalSimple2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor10.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor11.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor12.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor6.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor7.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor8.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor81.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor81.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor9.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaFor9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile10.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile11.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile6.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile7.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile8.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile9.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/EstructuraRepetitivaWhile9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
