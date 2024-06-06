@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f92d7b1-9087-40bf-9e81-ed50d6715570" name="Changes" comment="" />
+    <list default="true" id="2f92d7b1-9087-40bf-9e81-ed50d6715570" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/Basico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/PerimetroCuadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SueldoOperario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SumaProducto4Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SumaProductoNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SumaPromedio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/SuperficieCuadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2hWGXPR3n9UseJCZpxixxwv2Aql" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,7 +39,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -40,7 +67,11 @@
       <option name="presentableId" value="Default" />
       <updated>1717702460255</updated>
       <workItem from="1717702461544" duration="3000" />
+      <workItem from="1717704080440" duration="945000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
