@@ -1,3 +1,5 @@
+package CondicionesCompuestas;
+
 import java.util.Scanner;
 
 public class CondicionesCompuestas9 {

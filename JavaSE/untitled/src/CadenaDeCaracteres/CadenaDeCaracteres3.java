@@ -1,3 +1,5 @@
+package CadenaDeCaracteres;
+
 import java.util.Scanner;
 
 public class CadenaDeCaracteres3 {

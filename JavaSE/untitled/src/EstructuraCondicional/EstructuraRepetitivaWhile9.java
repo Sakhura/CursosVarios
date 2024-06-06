@@ -1,3 +1,5 @@
+package EstructuraCondicional;
+
 public class EstructuraRepetitivaWhile9 {
     public static void main(String[] ar) {
         int mult8;

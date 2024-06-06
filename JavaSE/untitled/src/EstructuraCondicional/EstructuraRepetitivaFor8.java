@@ -1,3 +1,5 @@
+package EstructuraCondicional;
+
 public class EstructuraRepetitivaFor8 {
     public static void main(String[] ar) {
         int f;

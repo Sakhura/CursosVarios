@@ -1,3 +1,5 @@
+package EstructuraCondicional;
+
 import java.util.Scanner;
 
 public class EstructuraRepetitivaWhile11 {

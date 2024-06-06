@@ -1,3 +1,5 @@
+package EstructuraCondicional;
+
 public class EstructuraRepetitivaWhile1 {
     public static void main(String[] ar) {
         int x;
