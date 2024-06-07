@@ -5,22 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f92d7b1-9087-40bf-9e81-ed50d6715570" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Matrices/Matriz9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaSE/untitled/src/MatricesIrregulares/MatrizIrregular1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector3.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector6.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector7.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/DatosTipoVector/PruebaVector7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/Metodos/MayorMenor.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Metodos/MayorMenor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaSE/untitled/src/Metodos/TablaMultiplicar.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaSE/untitled/src/Metodos/TablaMultiplicar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
